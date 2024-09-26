@@ -1,6 +1,6 @@
 **Hi there, I'm Arun Lawrence 👋**<br><br>
 
-**I'm a passionate Data Scientist with a keen interest in ML and DL.**<br><br>
+**I'm a passionate Data Scientist with a keen interest in Data Analysis, ML and DL.**<br><br>
 
 🌱 Currently, I'm workin on...
 - Data Science : Applying statistical and machine learning techniques to obtain insights and prediction from data.
